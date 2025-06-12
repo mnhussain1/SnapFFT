@@ -39,7 +39,7 @@ Different Color maps
 
 Using and Installing. 
 1. Option-1 : Either run the python file directly or using any interpreter. It is built to be compatible with Python version 3.9.1.
-2. Option 2 (Coming Soon) : Download the folder "SnapFFT_Windows" and run the .exe. files. Make sure the following packages are installed -
+2. Option 2 : Download the folder "SnapFFT.exe" and "_internal" in on folder and run the .exe. files. Make sure the following packages are installed -
 
 numpy	                    pip install numpy	
 cv2	                      pip install opencv-python	
